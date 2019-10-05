@@ -200,7 +200,7 @@ main {
   display: block;
   font-weight: 300;
   font-size: 200%;
-  line-height: 1rem;
+  line-height: 3rem;
   color: #35495e;
   letter-spacing: 1px;
   margin: 40px 0;

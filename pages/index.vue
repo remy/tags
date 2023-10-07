@@ -36,7 +36,6 @@
         </ul>
       </main>
     </div>
-    <script async defer crossorigin="anonymous" src="https://api.countapi.xyz/hit/tags.isthe.link?callback=cb"></script>
   </div>
 </template>
 
